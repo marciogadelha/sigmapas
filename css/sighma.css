@@ -1,0 +1,78 @@
+@font-face{
+	font-family: 'OpenSans';
+	src: url("../fonts/OpenSans-Regular.ttf");
+	font-size: 1em;
+}
+header {
+	width: 100%;
+	height: 70px;
+	background-color: #014415;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	border: none;
+}
+header .container {
+	position: relative;
+}
+header .header-black {
+	display: block;
+	width: 100%;
+	background-color: #00834c;
+	height: 20px;
+	font-size: 1em;
+}
+header #logotipo {
+	position: absolute;
+	width: 80px;
+	right:-20px;
+	left: 6px;
+	top: 22px;
+}
+#menu {
+	float: right;
+	position: relative;
+	display: inline-block;
+	font-family: OpenSans-Regular;
+	font-size: 20px;
+	margin: -7px -60px 0px 0px;
+	left: -90px;
+}
+#menu a:hover{
+	padding: 13.5px 20px;
+	background-color: #00834c;
+	color: #FFF;
+
+}
+#name {
+	position: absolute;
+	color: #FFF;
+	font-family: Open-Sans-Light;
+	font-size: 13px;
+	margin: -9px 100px;
+}
+nav li {
+	display: inline-block;
+	font-family: OpenSans-Regular;
+	margin: 0 15px 0 10px;
+	left: 6px;
+}
+nav li a {
+	color: #FFF;
+	font-size: 1em;
+	margin: 10px;
+	text-decoration: none;
+}
+input {
+	background-color: #014415;
+	color: #FFF;
+	border: none;
+	width: 85px;
+}
+#search :: -webkit-input-placeholder {
+	color: #FFF;
+}
+#btn-bars, #btn-search {
+	display: none;
+	color: #FFF;
+}
+

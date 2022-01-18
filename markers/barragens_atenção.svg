@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="104mm" height="101mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10400 10100"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#00AFEF;stroke-width:7.62}
+    .fil0 {fill:#00AFEF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_883388000">
+   <path class="fil0 str0" d="M4038 10094l2716 6c-289,-1801 -651,-3620 -970,-5421 -161,-910 -323,-1811 -488,-2719 -82,-451 -157,-906 -241,-1356 -120,-639 -316,-639 -1014,-580l-3 10070z"/>
+   <polygon class="fil0 str0" points="1,8717 3569,8716 3566,7800 5,7797 "/>
+   <polygon class="fil0 str0" points="1,10100 3567,10100 3567,9184 1,9181 "/>
+   <polygon class="fil0 str0" points="1,5936 3566,5936 3567,5020 1,5017 "/>
+   <polygon class="fil0 str0" points="1,1770 3562,1770 3566,855 3530,853 2,853 "/>
+   <polygon class="fil0 str0" points="2,7325 3560,7325 3566,6410 10,6408 "/>
+   <polygon class="fil0 str0" points="3,3159 3555,3158 3567,2244 6,2242 "/>
+   <polygon class="fil0 str0" points="3,3791 0,4546 3568,4545 3567,3635 3,3634 "/>
+   <path class="fil0 str0" d="M6853 7818l140 806c31,7 167,110 452,28 152,-44 233,-120 379,-164 416,-127 543,123 847,178 423,78 520,-160 841,-203 356,-49 507,185 888,219l-2 -769c-366,-17 -506,-264 -883,-217 -333,42 -469,316 -895,190 -319,-94 -434,-306 -864,-142 -147,56 -225,138 -413,165 -216,31 -323,-52 -490,-91z"/>
+   <path class="fil0 str0" d="M7091 9304l94 587c4,31 6,59 13,86l40 106c365,-19 448,-216 775,-224 349,-7 445,223 802,224 344,0 443,-217 775,-224 325,-7 432,194 810,226l-2 -769c-376,-16 -469,-240 -831,-222 -324,15 -454,258 -825,220 -324,-33 -436,-270 -821,-214 -344,50 -362,263 -830,204z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+/*Tamanho padrão para tablets*/
+@media only screen and (max-width: 768px) {
+
+	.header-black ul {
+		display: none;
+		
+	
+}
+/*Tamanho padrão para smartphones*/
+@media only screen and (max-width: 480px) {
+
+	#menu, #name {
+		display: none;
+	}
+	#logotipo {
+		left: 36%;
+	}
+	#btn-bars, #btn-search {
+		color: #FFF;
+		font-size: 22px;
+		position: absolute;
+		top: 4px;
+}
+	#btn-bars {
+		left: 0;
+
+}
+	#btn-search {
+		right: 0;
+	}
